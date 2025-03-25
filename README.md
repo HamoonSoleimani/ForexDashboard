@@ -1,6 +1,6 @@
 # Forex Trading Robot with Multi-Source Data Analysis and Visualization
-![1](https://github.com/user-a![2](https://github.com/user-attachments/assets/671c30d6-9958-4bda-8934-e9c3f6e993a7)
-ttachments/assets/d9ffc3b2-a0c4-41e0-ae27-4b198500e557)
+![2](https://github.com/user-attachments/assets/38216972-1f9f-4c3b-9eb8-b8f262e5f724)
+![1](https://github.com/user-attachments/assets/7fea95dc-7d65-4b96-9727-62b9723ac803)
 
 
 ## Overview
